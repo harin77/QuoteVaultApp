@@ -407,5 +407,6 @@ For issues and questions, please create an issue in the repository.
 ---
 
 **Built with ❤️ using Flutter and Supabase**
-#   Q u o t e V a u l t A p p  
+#   Q u o t e V a u l t A p p 
+ 
  
