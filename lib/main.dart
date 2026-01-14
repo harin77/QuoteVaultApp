@@ -10,8 +10,8 @@ void main() async {
   // Initialize Supabase
   // Replace with your Supabase project URL and anon key
   await SupabaseService.initialize(
-    url: 'https://uryfjbjmovamsiyqkoil.supabase.co',
-    anonKey: 'sb_publishable_XnIPwPcpCLvTZIry582EjA_ki-sg3n6',
+    url: 'https://sorrycant.supabase.co',
+    anonKey: 'sb_sorrycant-sg3n6',
   );
 
   // Initialize notifications
